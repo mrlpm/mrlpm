@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dbinary alt=dbinary /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dbinary&show_icons=true&include_all_commits=true)](https://github.com/dbinary/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dbinary&show_icons=true&include_all_commits=true&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbinary&layout=compact)](https://github.com/dbinary/github-readme-stats)
 
 - 🔭 I’m currently working on [ITM](https://www.i-t-m.com)
