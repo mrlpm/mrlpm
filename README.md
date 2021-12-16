@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=luisperezmarin&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisperezmarin&layout=compact)](https://github.com/luisperezmarin/github-readme-stats)
 
-- 🔭 I’m currently working on [ITM](https://www.i-t-m.com)
-- 🌱 I’m currently learning Azure
+- 🔭 I’m currently working on [SISAP](https://www.sisap.com/)
+- 🌱 I’m currently learning OCI Cloud Operations Associate
