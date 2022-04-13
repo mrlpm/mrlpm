@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Luis Armando Pérez Marin
-[![Gmail Badge](https://img.shields.io/badge/-luis.perez@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luis.perez@protonmail.com)](mailto:luis.perez@protonmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-luisperezgt-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisperezgt/)](https://www.linkedin.com/in/luisperezgt/) [![Github Badge](https://img.shields.io/badge/-luisperezmarin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/luisperezmarin/)](https://www.github.com/luisperezmarin/) [![Twitter Badge](https://img.shields.io/badge/-luisperezmarin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/luispmarin/)](https://www.twitter.com/luispmarin/) <p align='left'>I'm a sysadmin with experience in GNU/Linux, specifically Red Hat Linux, I'm own some certifications from they. I'm passionate about information security, and programming.</p>
+## My Name is Luis Armando Pérez Marín
+[![ProtonMail Badge](https://img.shields.io/badge/-luis.perez@protonmail.com-grey?style=flat&logo=ProtonMail&logoColor=lightgray&link=mailto:luis.perez@protonmail.com)](mailto:luis.perez@protonmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-luisperezgt-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisperezgt/)](https://www.linkedin.com/in/luisperezgt/)
+[![Github Badge](https://img.shields.io/badge/-luisperezmarin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/luisperezmarin/)](https://www.github.com/luisperezmarin/)
+[![Twitter Badge](https://img.shields.io/badge/-luisperezmarin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/luispmarin/)](https://www.twitter.com/luispmarin/)
+
+<p align='left'>I'm a Linux sysadmin with some years of experience, but my passion is to be an information security professional</p>
+
+Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?certId=111-174-744)
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=luisperezmarin alt=luisperezmarin /> </p>
 
@@ -25,4 +32,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisperezmarin&layout=compact)](https://github.com/luisperezmarin/github-readme-stats)
 
 - 🔭 I’m currently working on [SISAP](https://www.sisap.com/)
-- 🌱 I’m currently learning OCI Cloud Operations Associate
+  - QRadar L2 Support Engineer at **IBM**
+- 📗 I’m currently learning:
+  - CySA+ 🔒
+  - VMWare Data Center Virtualization Core Technical Skills ☁️
