@@ -28,8 +28,8 @@ Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=luisperezmarin alt=luisperezmarin /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=luisperezmarin&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisperezmarin&layout=compact)](https://github.com/luisperezmarin/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=luisperezmarin&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisperezmarin&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/luisperezmarin/github-readme-stats)
 
 - 🔭 I’m currently working on [SISAP](https://www.sisap.com/)
   - QRadar L2 Support Engineer at **IBM**
