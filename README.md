@@ -36,3 +36,6 @@ Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?
 - 📗 I’m currently learning:
   - CySA+ 🔒
   - VMWare Data Center Virtualization Core Technical Skills ☁️
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
