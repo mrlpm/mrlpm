@@ -31,11 +31,11 @@ Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mrlpm&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlpm&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/mrlpm/github-readme-stats)
 
-- 🔭 I’m currently working on [SISAP](https://www.sisap.com/)
-  - QRadar L2 Support Engineer at **IBM**
+- 🔭 I’m currently working on [**SISAP**](https://www.sisap.com/)
+  - QRadar L2 Support Engineer at [**IBM**](https://www.ibm.com/qradar)
 - 📗 I’m currently learning:
-  - CySA+ 🔒
-  - VMWare Data Center Virtualization Core Technical Skills ☁️
+  - KCNA ☸
+  - Terraform
 
 <!--START_SECTION:badges-->
 [![Linux Essentials Certificate](https://images.credly.com/size/110x110/images/f7393e6b-c67e-49e6-b404-381faf1f4343/blob)](http://www.credly.com/badges/4f0a720f-1ab0-4d6b-905c-dd74566ad4c5 "Linux Essentials Certificate")
