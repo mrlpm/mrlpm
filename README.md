@@ -38,4 +38,13 @@ Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?
   - VMWare Data Center Virtualization Core Technical Skills ☁️
 
 <!--START_SECTION:badges-->
+[![Linux Essentials Certificate](https://images.credly.com/size/110x110/images/f7393e6b-c67e-49e6-b404-381faf1f4343/blob)](http://www.credly.com/badges/4f0a720f-1ab0-4d6b-905c-dd74566ad4c5 "Linux Essentials Certificate")
+[![Cybersecurity Awareness Learner](https://images.credly.com/size/110x110/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob)](http://www.credly.com/badges/3a72c566-986e-4b59-914b-db6a7a511db0 "Cybersecurity Awareness Learner")
+[![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/e38631a5-443c-4953-91b1-fded973d5e7a "ISC2 Candidate")
+[![Red Hat Certified Specialist in Containers and Kubernetes](https://images.credly.com/size/110x110/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png)](http://www.credly.com/badges/c5e882b3-a13e-4f91-90d3-b6e705dfe984 "Red Hat Certified Specialist in Containers and Kubernetes")
+[![Red Hat Certified Specialist in Hybrid Cloud Management](https://images.credly.com/size/110x110/images/9a4751a6-ce4f-44d1-9c6f-bd4099225527/image.png)](http://www.credly.com/badges/70b3400b-2ee3-4502-88fc-8d06345b5cb0 "Red Hat Certified Specialist in Hybrid Cloud Management")
+[![Red Hat Certified System Administrator (RHCSA)](https://images.credly.com/size/110x110/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png)](http://www.credly.com/badges/3fb6e760-1e57-4cad-8a9b-0b8eed0f6c9d "Red Hat Certified System Administrator (RHCSA)")
+[![Red Hat Certified Engineer (RHCE)](https://images.credly.com/size/110x110/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png)](http://www.credly.com/badges/22bb7cb8-7681-4598-9c4d-e72d8068f9b1 "Red Hat Certified Engineer (RHCE)")
+[![Red Hat Certified Specialist in Ansible Automation](https://images.credly.com/size/110x110/images/2f835cd9-20d9-4251-b478-d4b17814b850/image.png)](http://www.credly.com/badges/fd3c126b-6fa6-4fc8-8c70-b0916b3b5e94 "Red Hat Certified Specialist in Ansible Automation")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/1adc7c8f-9ff6-4ca2-b84d-2900affcbd40 "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
