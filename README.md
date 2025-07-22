@@ -34,7 +34,7 @@ Certification ID: [111-174-744](https://www.redhat.com/rhtapps/services/verify/?
 - 🔭 I’m currently working on [**SISAP**](https://www.sisap.com/)
   - QRadar L2 Support Engineer at [**IBM**](https://www.ibm.com/qradar)
 - 📗 I’m currently learning:
-  - KCNA ☸
+  - KCA ☸
   - Terraform
 
 <!--START_SECTION:badges-->
